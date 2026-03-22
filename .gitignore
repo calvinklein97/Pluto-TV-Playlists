@@ -1,4 +1,5 @@
 node_modules
 
 *.m3u8
+!plutotv_de_custom.m3u8
 *.xml
