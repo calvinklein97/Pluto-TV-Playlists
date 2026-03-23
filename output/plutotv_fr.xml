@@ -7283,6 +7283,11 @@
         <desc>Le premier frappe sans prévenir. Puis un autre. Bientôt, les énormes murs d’eau engloutissent côte après côte, ville après ville. Alors que d’innombrables vies sont perdues dans l’assaut, le pire reste à venir.</desc>
         <icon src="https://images.pluto.tv/series/66fc1143af99a50013eafa7f/tile_1768462377617.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="65a69ef53af63d000825e0ee" start="20260323162607 +0000" stop="20260323180107 +0000">
+        <title>Meteor Moon</title>
+        <desc>Après le crash d’une météorite géante sur la lune, son axe est modifié et l’entraine en direction de notre planète. Un groupe de scientifiques doit trouver un moyen d’empêcher la lune d’entrer en collision avec la Terre avant qu’il ne soit trop tard…</desc>
+        <icon src="https://images.pluto.tv/series/62bd4ba3c7b29600144c48fa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="65cca3e2ec452d0008af3a65" start="20260323092741 +0000" stop="20260323112459 +0000">
         <title>The Revengers (Cbs Legacy)</title>
         <desc>Civil War veteran-turned-rancher John Benedict (William Holden) returns home from a hunting trip to discover that his wife and children have been murdered. To avenage his family, he recruits a gang of six outlaws to hunt and find the killers.</desc>
@@ -21384,6 +21389,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <desc>Un écrivain rencontre par hasard l'amour de sa vie et découvre que la jeune femme est fiancée.</desc>
         <icon src="https://images.pluto.tv/series/69397474232b4e31aacff828/tile_1765375516828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260324030924 +0000" stop="20260324044324 +0000">
+        <title>Sexy Movie</title>
+        <desc>Les esprits tordus des auteurs de Scary Movie s’attaquent à la comédie romantique dans « Sexy Movie », un film pour ceux qui aiment les comédies romantiques ; et pour ceux qui les détestent.</desc>
+        <icon src="https://images.pluto.tv/series/606d73b4a224c9001bb94688/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260323215826 +0000" stop="20260324001408 +0000">
         <title>Tendres Passions</title>
         <desc>Tendres Passions a ébloui la critique tout comme le public avec son histoire crédible et judicieuse de deux personnages captivants, une mère et sa fille, interpétées de manière inoubliable par Shirley MacLaine et Debra Winger.</desc>
@@ -24991,6 +25001,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <icon src="https://images.pluto.tv/series/69344602a458a400fb13fda4/tile_1765033510132.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66fd35e44ca31f0008060b77" start="20260324040000 +0000" stop="20260324050000 +0000">
+        <title>World Seniors Snooker 900</title>
+        <desc>Featuring coverage of the World Seniors Snooker 900 tournament.</desc>
+        <icon src="https://images.pluto.tv/series/692989cc63142c96a911722a/tile_1764329933425.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66fd35e44ca31f0008060b77" start="20260324050000 +0000" stop="20260324060000 +0000">
         <title>World Seniors Snooker 900</title>
         <desc>Featuring coverage of the World Seniors Snooker 900 tournament.</desc>
         <icon src="https://images.pluto.tv/series/692989cc63142c96a911722a/tile_1764329933425.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>

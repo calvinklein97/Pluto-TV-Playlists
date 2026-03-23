@@ -10246,6 +10246,11 @@
         <desc>Basierend auf Richard Bachs Erfolgsroman öffnet diese zeitlose Geschichte Herzen und provoziert Staunen und Träume.</desc>
         <icon src="https://images.pluto.tv/series/66d9b25877deaf0014f4ba48/tile_1767744423680.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dde47b63585b500099f74ec" start="20260323152314 +0000" stop="20260323171314 +0000">
+        <title>Blaues Hawaii</title>
+        <desc>Seine Mutter (Angela Lansbury) erwartet, dass er die Karriereleiter erklimmt. Aber Elvis trägt lieber Hawaii-Hemd als Krawatte, weshalb er als Reiseführer arbeitet. Und Elvis hat Glück: Seine allerersten Kunden sind ein Wagen voller süßer Miezen.</desc>
+        <icon src="https://images.pluto.tv/series/6255248628c6dd00132c17ab/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5e1efdbf90ba3e0009d99082" start="20260323093227 +0000" stop="20260323112553 +0000">
         <title>The Naked Jungle</title>
         <desc>Charlton Heston spielt einen mächtigen, brütenden Plantagenbesitzer in der Wildnis des südamerikanischen Dschungels.</desc>
@@ -30552,6 +30557,11 @@
         <icon src="https://images.pluto.tv/series/69344602a458a400fb13fe4f/tile_1765038129978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68ac5543a1ac0c90f2c8943e" start="20260324040000 +0000" stop="20260324050000 +0000">
+        <title>World Seniors Snooker 900</title>
+        <desc>Featuring coverage of the World Seniors Snooker 900 tournament.</desc>
+        <icon src="https://images.pluto.tv/series/692989cd63142c96a9117361/tile_1764339780238.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ac5543a1ac0c90f2c8943e" start="20260324050000 +0000" stop="20260324060000 +0000">
         <title>World Seniors Snooker 900</title>
         <desc>Featuring coverage of the World Seniors Snooker 900 tournament.</desc>
         <icon src="https://images.pluto.tv/series/692989cd63142c96a9117361/tile_1764339780238.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>

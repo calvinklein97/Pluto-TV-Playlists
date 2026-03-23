@@ -37746,6 +37746,11 @@
         <desc>Featuring coverage of the World Seniors Snooker 900 tournament.</desc>
         <icon src="https://images.pluto.tv/series/692989ca63142c96a9116fba/tile_1764329931334.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="639b4f75d3d35c0007d37b30" start="20260324050000 +0000" stop="20260324060000 +0000">
+        <title>World Seniors Snooker 900</title>
+        <desc>Featuring coverage of the World Seniors Snooker 900 tournament.</desc>
+        <icon src="https://images.pluto.tv/series/692989ca63142c96a9116fba/tile_1764329931334.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="63da36dea995710008727d4d" start="20260323225300 +0000" stop="20260323232000 +0000">
         <title>Transformers: Energon</title>
         <desc>Megatron has taken yet another plan, to create three meteors from Unicron and propel them at Earth before the energon grid has been completed, which he feels will "strike fear in Optimus Prime."</desc>
@@ -39640,6 +39645,11 @@
         <title>The Starving Games</title>
         <desc>Spoofs "The Hunger Games," "Avengers" and Harry Potter.</desc>
         <icon src="https://images.pluto.tv/series/693ffbcf843d41d249596d25/tile_1765800962384.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691e0561e32eb094b835c418" start="20260324070300 +0000" stop="20260324090700 +0000">
+        <title>No Escape</title>
+        <desc>In Southeast Asia, a newly relocated American businessman and his family look for a safe haven during a violent political uprising.</desc>
+        <icon src="https://images.pluto.tv/series/6941f471fcbc144bb6888634/tile_1765930111415.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6932adefa056ba6339811a62" start="20260324025400 +0000" stop="20260324051800 +0000">
         <title>Hotel Rwanda</title>
