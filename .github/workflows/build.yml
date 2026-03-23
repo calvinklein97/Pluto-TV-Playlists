@@ -1,10 +1,11 @@
 name: Build Custom M3U
 
 on:
-  push:
-    paths:
-      - 'output/plutotv_de.m3u8'
-      - 'PlutoLogos/**'
+  workflow_run:
+    workflows: ["Auto Update"]   # MUSS exakt so heißen wie in auto.yml
+    types:
+      - completed
+
   workflow_dispatch:
 
 permissions:
@@ -12,13 +13,14 @@ permissions:
 
 jobs:
   build:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
 
     steps:
       - name: Repo auschecken
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # WICHTIG für commits
+          fetch-depth: 0
 
       - name: Node installieren
         uses: actions/setup-node@v4
@@ -33,11 +35,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add plutotv_de_custom.m3u8
-
-          if git diff --cached --quiet; then
-            echo "Keine Änderungen"
-          else
-            git commit -m "Auto build M3U"
-            git push origin HEAD:main
-          fi
+          git add -f plutotv_de_custom.m3u8
+          git commit -m "Auto build M3U" || echo "Keine Änderungen"
+          git push origin HEAD:main || echo "Nichts zu pushen"
