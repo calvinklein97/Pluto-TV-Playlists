@@ -1221,6 +1221,11 @@
         <desc>Aus dem Tre Fontane Stadium in Rom, Italien.</desc>
         <icon src="https://images.pluto.tv/series/65a56bee53524900149a6a52/tile_1758816330430.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="64afe50c5dc16600087f3227" start="20260323115400 +0000" stop="20260323122500 +0000">
+        <title>LET'S GO BALLIN'</title>
+        <desc>In wenigen Monaten geht die Basketball-WM der deutschen Basketballfrauen in Berlin an den Start.</desc>
+        <icon src="https://images.pluto.tv/series/68daa7bef1f80c815130f3c6/tile_1759164415984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6628e513cee0d90008639b46" start="20260323065059 +0000" stop="20260323074330 +0000">
         <title>Robocop: The Series: Zone Five</title>
         <desc>To combat an epidemic of a narcotic called FUN, OCP recruits a gang of vigilantes, but RoboCop discovers the gang's sinister plot to flood the city with drugs.</desc>
@@ -3040,6 +3045,11 @@
         <title>Dyn Highlights All Sports</title>
         <desc>Dyn Sportmix zeigt die Sport-Highlights aus den Spielen des vergangenen Spieltags.</desc>
         <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bc13/tile_1755713532280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6866525c8a412a0e95c438b4" start="20260323114800 +0000" stop="20260323151900 +0000">
+        <title>BBL Pokal</title>
+        <desc>Die Sendung zeigt Spiele des Pokalwettbewerbs im deutschen Vereinsbasketball der Herren.</desc>
+        <icon src="https://images.pluto.tv/series/68a60ffb9889a990edd7c0d9/tile_1772104471160.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="686cfef52704ca31d85c4bf1" start="20260323065619 +0000" stop="20260323072524 +0000">
         <title>Pastewka</title>
@@ -5064,32 +5074,32 @@
     <programme channel="691491c6bb69fb3258c3524a" start="20260323063244 +0000" stop="20260323072439 +0000">
         <title>Swamp People</title>
         <desc>Am letzten Alligator-Tag kämpft jeder um seine Quote; schwierige Bedingungen erschweren das Ziel.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323072439 +0000" stop="20260323081617 +0000">
         <title>Swamp People</title>
         <desc>Saisonstart verzögert ein Hurrikan. Verkürzte Jagdzeit zwingt Jäger und Familien zu größeren Risiken.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323081617 +0000" stop="20260323090859 +0000">
         <title>Swamp People</title>
         <desc>Troy und seine Söhne jagen den größten Alligator. Ein Taschenmesser wird zum Gewehrersatz gegen einen Riesen.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323090859 +0000" stop="20260323100000 +0000">
         <title>Swamp People</title>
         <desc>Die Alligatorjäger kämpfen mit den Folgen von Hurrikan Isaac: Fischsterben erfordert neue Fangstrategien.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323100000 +0000" stop="20260323105147 +0000">
         <title>Swamp People</title>
         <desc>Misstrauen zwischen Landrys und Texanern durch Wilderer. Bruce plant riskant nach Hurrikan-Schäden.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323105147 +0000" stop="20260323114241 +0000">
         <title>Swamp People</title>
         <desc>Die Jäger kämpfen nach Hurrikan Isaac mit Problemen. Willie wird von einem Alligator gebissen.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d767b4889bca2ce7b73ef2e" start="20260323061850 +0000" stop="20260323071550 +0000">
         <title>Extraordinary Humans: Human Cat; Human Bat</title>
@@ -5405,6 +5415,11 @@
         <title>Rustlers' Rhapsody</title>
         <desc>Der Wilde Westen gerät aus den Fugen, als das größte, schnellziehende, gitarrenspielende und singende Cowboy-Idol Rex O'Herlihan in Rustlers' Rhapsody, einem schrägen, liebevollen Abgesang auf den B-Movie-Western der 40er Jahre, in den Sattel steigt.</desc>
         <icon src="https://images.pluto.tv/series/64de0e98c94b15001331d3db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="630dd3b2605f140007e002f5" start="20260323110100 +0000" stop="20260323122500 +0000">
+        <title>Der Siebente Ist Dran</title>
+        <desc>Sieben Männer werden gejagt. Sieben mörderische Gauner, die $20.000 aus einer Frachtstation von Wells Fargo stahlen und dabei einen Angestellten töteten.</desc>
+        <icon src="https://images.pluto.tv/series/62fb9dba85bbed001af85ffb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="638f2983dcd9100008c2374d" start="20260323060750 +0000" stop="20260323070450 +0000">
         <title>Rawhide DE: Incident of the Painted Lady</title>
@@ -6290,6 +6305,11 @@
         <title>Liverpool: Von den Beatles bis heute – eine Musikgeschichte</title>
         <desc>Zwischen 1956 und 1963 – tummeleten sich über 1.000 Bands in den rund 500 Clubs von Liverpool. Aus Jazz und Folk wurde hier im sogenannten “Meltingpot” der Merseybeat geboren und eroberte die Welt.</desc>
         <icon src="https://images.pluto.tv/series/6400724f737e620013c8eed6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ada399247c66a111528aaa" start="20260323110235 +0000" stop="20260323125537 +0000">
+        <title>Looking For Lennon - All I want is the truth</title>
+        <desc>Eine schonungslose Reise ohne Happy End: Diese Dokumentation portraitiert den vielschichtigen jungen Mann hinter dem Mythos John Lennon - von den dunklen Tragödien um seine zerrüttete Familie bis zu den Zeiten des Ruhms und der Ernüchterung.</desc>
+        <icon src="https://images.pluto.tv/series/653f7bd0727df0001a9c621c/tile_1767788737513.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68ada3edf84960586ad31c7d" start="20260323064804 +0000" stop="20260323084120 +0000">
         <title>Szenen meiner Ehe</title>
@@ -10241,6 +10261,11 @@
         <desc>Jerry McNell, als Kind von einem fliegenden Rentier gerettet, entdeckt ein Buch über deren Existenz. Er will es beweisen, fliegt gen Norden, stürzt ab und wird gerettet. Am Ende bestätigt er die These und trifft den echten Weihnachtsmann.</desc>
         <icon src="https://images.pluto.tv/series/6899e24e6cc84ff3eda44ec1/tile_1767845599505.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5e1efdbf90ba3e0009d99082" start="20260323151044 +0000" stop="20260323170410 +0000">
+        <title>The Naked Jungle</title>
+        <desc>Charlton Heston spielt einen mächtigen, brütenden Plantagenbesitzer in der Wildnis des südamerikanischen Dschungels.</desc>
+        <icon src="https://images.pluto.tv/series/68909c884f8d4a991706c240/tile_1754307721517.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f760c3d41aa2d0007bfde19" start="20260323103725 +0000" stop="20260323110825 +0000">
         <title>Bloch erklärt: Nicht so schnell wie gedacht: Die falschen Performance-Versprechen von Tesla</title>
         <desc>Elon Musk und Tesla haben in der Vergangenheit schon so manche Leistungsversprechen abgegeben, bei denen einem regelrecht schwindelig wird. Einige davon sind eingetreten, andere aber...</desc>
@@ -10325,6 +10350,11 @@
         <title>The Operation - Im Sumpf der Korruption</title>
         <desc>Die brasilianische Bundespolizei spürt einen mit 700 Kilogramm Kokain geladenen Lkw auf. Um den Drahtziehern auf den Grund zu gehen, ermitteln die Beamten jahrelang gegen ein globales Bauunternehmen, das Verbindungen in Regierungskreise hat.</desc>
         <icon src="https://images.pluto.tv/series/687e1e1ba53444ef2a5fcbdb/tile_1753095803818.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="615c1e5ce3039400070a0547" start="20260323150700 +0000" stop="20260323170700 +0000">
+        <title>Monster-Jagd</title>
+        <desc>Jimo ist ein ausgestoßenes Mädchen und kämpft mit ihrer Glaubwürdigkeit, als sie erzählt, dass sie Monster sieht. Eines Tages trifft sie auf den Monsterjäger Meng und beschließt, die bösen Mächte gemeinsam mit ihrem neuen Gefährten zu bekämpfen.</desc>
+        <icon src="https://images.pluto.tv/series/687e1e29a53444ef2a5ffef9/tile_1753095773873.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bc1784120ba80007935aaa" start="20260323103745 +0000" stop="20260323112445 +0000">
         <title>Awkward: Gutes Karma</title>
@@ -10525,6 +10555,11 @@
         <title>Rückenwind von vorn DE</title>
         <desc>Die junge Berliner Lehrerin Charlie gerät zunehmend in eine Existenzkrise. Sie ist sich nicht sicher, ob sie ihren eingeschlagenen Weg weitergehen will.</desc>
         <icon src="https://images.pluto.tv/series/66869a009322c00013dac080/tile_1767835442896.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a67d572fac9c000835eb3a" start="20260323150006 +0000" stop="20260323170725 +0000">
+        <title>Big Night - Nacht Der Genüsse</title>
+        <desc>Trotz Primos Kochkünsten und des ehrgeizigen Treibens seines Bruders Secondo, bleiben im Restaurant die Gäste aus. Ein Galaabend verspricht nicht nur das Geschäft anzukurbeln, sondern auch ihre Leben zu ändern.</desc>
+        <icon src="https://images.pluto.tv/series/661699fb4da6e3001397e2e6/tile_1773047521329.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65a67dd13af63d0008257f17" start="20260323101942 +0000" stop="20260323110925 +0000">
         <title>90210: Die Investorin</title>
@@ -11969,27 +12004,27 @@
     <programme channel="691491c6bb69fb3258c3524a" start="20260323105147 +0000" stop="20260323114241 +0000">
         <title>Swamp People</title>
         <desc>Die Jäger kämpfen nach Hurrikan Isaac mit Problemen. Willie wird von einem Alligator gebissen.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323114241 +0000" stop="20260323123453 +0000">
         <title>Swamp People</title>
         <desc>Um den Rückstand nach Hurrikan Isaac aufzuholen, wagen Jäger größere Risiken in gefährlichen Gebieten.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323123453 +0000" stop="20260323132431 +0000">
         <title>Swamp People</title>
         <desc>Die Jagdsaison läuft, doch eine Kaltfront droht. Jacob, Chase und Bruce kämpfen mit extremer Taktik.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323132431 +0000" stop="20260323141632 +0000">
         <title>Swamp People</title>
         <desc>Die Texaner fordern Troy im Sumpf heraus. Liz jagt trotz Nachwirkungen einer Operation und riskiert alles.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323141632 +0000" stop="20260323150818 +0000">
         <title>Swamp People</title>
         <desc>Liz kehrt drei Wochen nach ihrer OP zur Jagd zurück. Doch alles läuft schief und Frust macht sich breit.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d767b4889bca2ce7b73ef2e" start="20260323103250 +0000" stop="20260323110050 +0000">
         <title>Extraordinary Humans: George Aldrich</title>
@@ -16406,6 +16441,11 @@
         <desc>Übertragungen von aktuellen Wettbewerben aus der Welt des Darts.</desc>
         <icon src="https://images.pluto.tv/series/6527b59f3e6938001ac28043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="64b67f0424ade50008a3be17" start="20260323235000 +0000" stop="20260324003800 +0000">
+        <title>Darts</title>
+        <desc>Übertragungen von aktuellen Wettbewerben aus der Welt des Darts.</desc>
+        <icon src="https://images.pluto.tv/series/6527b59f3e6938001ac28043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64be635a40962900080aaca5" start="20260323144700 +0000" stop="20260323151200 +0000">
         <title>Rules of Engagement: Auf dem Teppich</title>
         <desc>Verärgert darüber, dass er einen neuen Teppich kaufen muss, nachdem Audrey Adam und Jenn ihren alten gegeben hat, versucht Jeff, das Geschenk zu sabotieren, indem er Adam von all dem „Spaß“ erzählt, den er und Audrey daran hatten.</desc>
@@ -16886,6 +16926,11 @@
         <desc>Am Montag, den 23. März 2026, empfängt der TTC RhönSprudel Fulda-Maberzell den TTC Zugbrücke Grenzau in der Tischtennis Bundesliga. Anpfiff in Fulda ist um 19:00 Uhr, die Übertragung beginnt um 18:40 Uhr.</desc>
         <icon src="https://images.pluto.tv/series/68da7cefd70c07ace87bb7ba/tile_1763055089174.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6866525c8a412a0e95c438b4" start="20260323213600 +0000" stop="20260323234900 +0000">
+        <title>Handball Bundesliga</title>
+        <desc>Aus der Max-Schmeling-Halle in Berlin, Deutschland.</desc>
+        <icon src="https://images.pluto.tv/series/68a60ff99889a990edd7bd5d/tile_1755713588336.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="686cfef52704ca31d85c4bf1" start="20260323143730 +0000" stop="20260323150858 +0000">
         <title>Pastewka</title>
         <desc>Bastian wacht verkatert und mit Blackout nach dem Deutschen Filmpreis in einem Hotelzimmer auf.</desc>
@@ -17126,6 +17171,11 @@
         <desc>Paris, die Stadt des Lichts, leuchtet noch heller, als Audrey Hepburn und Fred Astaire zum einzigen Mal zusammenarbeiten und mit ihren strahlenden Starqualitäten dieses auserlesene Musical bereichern, das Lieder von George und Ira Gershwin enthält.</desc>
         <icon src="https://images.pluto.tv/series/60d98f8289632c0013eb174e/tile_1767400201457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dde47b63585b500099f74ec" start="20260323191014 +0000" stop="20260323212114 +0000">
+        <title>Mein Leben ist der Rhythmus</title>
+        <desc>Elvis Presley verpasst der Bourbon Street neuen Schwung. Er spielt einen schwierigen Jugendlichen, dessen Gesang das French Quarter zum Beben bringt.</desc>
+        <icon src="https://images.pluto.tv/series/6041ea2fe7c979001a89805e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5e1efdbf90ba3e0009d99082" start="20260323133411 +0000" stop="20260323151044 +0000">
         <title>Der Flug der Rentiere</title>
         <desc>Jerry McNell, als Kind von einem fliegenden Rentier gerettet, entdeckt ein Buch über deren Existenz. Er will es beweisen, fliegt gen Norden, stürzt ab und wird gerettet. Am Ende bestätigt er die These und trifft den echten Weihnachtsmann.</desc>
@@ -17140,6 +17190,11 @@
         <title>Boulevard der Dämmerung</title>
         <desc>Gloria Swanson spielt Norma Desmond, eine alternde Stummfilmkönigin, William Holden einen Autoren, der ihr hörig ist. Zusammen porträtieren sie zwei der bemerkenswertesten Filmfiguren aller Zeiten.</desc>
         <icon src="https://images.pluto.tv/series/662b7f5bd1a9170013625832/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e1efdbf90ba3e0009d99082" start="20260323191228 +0000" stop="20260323210328 +0000">
+        <title>A Crooked Somebody</title>
+        <desc>Michael Vaughn gibt sich als Medium aus und behauptet, er könne mit den Toten kommunizieren. Seine Masche rächt sich, als er kurzerhand von einem Mörder entführt wird, der befürchtet...</desc>
+        <icon src="https://images.pluto.tv/series/6229c7da956df9001a7dbc45/tile_1767761544392.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f760c3d41aa2d0007bfde19" start="20260323143716 +0000" stop="20260323153423 +0000">
         <title>Bloch erklärt: Spinnt Mazda? 6 Irrtümer zum Reihensechszylinder-Diesel im CX-60</title>
@@ -17205,6 +17260,11 @@
         <title>Kingpin: Zwei Trottel auf der Bowlingbahn</title>
         <desc>1979 war Roy Munson der nationale Bowlingmeister. Doch kurz nach dieser Ehre hat er sich mit den falschen Jungs angelegt, und seitdem fehlt ihm eine Hand. Jahre später schlägt er sich mit einer Gummihand durch, indem er Bowlingzubehör verkauft.</desc>
         <icon src="https://images.pluto.tv/series/694933e3262748e858c8af19/tile_1766412022013.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="615c1e5ce3039400070a0547" start="20260323191700 +0000" stop="20260323210000 +0000">
+        <title>Der kleine Dicke gibt Zunder</title>
+        <desc>Ob Action, Romantik oder Komödie – auf MOVIEDOME kommt jeder Filmliebhaber auf seine Kosten.</desc>
+        <icon src="https://images.pluto.tv/series/69b7e3055791ba8c133bdeeb/tile_1773658886230.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62bc1784120ba80007935aaa" start="20260323145845 +0000" stop="20260323152245 +0000">
         <title>Awkward: Nächtliche Wirrungen</title>
@@ -18869,32 +18929,32 @@
     <programme channel="691491c6bb69fb3258c3524a" start="20260323141632 +0000" stop="20260323150818 +0000">
         <title>Swamp People</title>
         <desc>Liz kehrt drei Wochen nach ihrer OP zur Jagd zurück. Doch alles läuft schief und Frust macht sich breit.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323150818 +0000" stop="20260323160001 +0000">
         <title>Swamp People</title>
         <desc>Ein seltener gelber Alligator flucht die Jäger. Ein Ritual der Ureinwohner soll das Unglück abwenden.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323160001 +0000" stop="20260323165148 +0000">
         <title>Swamp People</title>
         <desc>Misstrauen zwischen Landrys und Texanern durch Wilderer. Bruce plant riskant nach Hurrikan-Schäden.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323165148 +0000" stop="20260323174242 +0000">
         <title>Swamp People</title>
         <desc>Die Jäger kämpfen nach Hurrikan Isaac mit Problemen. Willie wird von einem Alligator gebissen.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323174242 +0000" stop="20260323183453 +0000">
         <title>Swamp People</title>
         <desc>Um den Rückstand nach Hurrikan Isaac aufzuholen, wagen Jäger größere Risiken in gefährlichen Gebieten.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323183453 +0000" stop="20260323192431 +0000">
         <title>Swamp People</title>
         <desc>Die Jagdsaison läuft, doch eine Kaltfront droht. Jacob, Chase und Bruce kämpfen mit extremer Taktik.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d767b4889bca2ce7b73ef2e" start="20260323144050 +0000" stop="20260323154050 +0000">
         <title>Super Factories: Winnebago</title>
@@ -23956,6 +24016,11 @@
         <desc>Zwei Ganoven aus Marseille, Capella (Jean-Paul Belmondo) und Siffredi (Alain Delon), bahnen sich in den 1930er Jahren ihren Weg bis an die Spitze der Unterwelt der Stadt - bis einer sich entschließt, seine Freundin über das Verbrechen zu stellen.</desc>
         <icon src="https://images.pluto.tv/series/66045360a79dde0014e33232/tile_1773049681123.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dde47b63585b500099f74ec" start="20260323234930 +0000" stop="20260324014942 +0000">
+        <title>Zeuge einer Verschwörung</title>
+        <desc>Warren Beatty ist ein Reporter, der gemeinsam mit sieben anderen Zeuge der Ermordung eines politischen Kandidaten wird.</desc>
+        <icon src="https://images.pluto.tv/series/67a0e969dd76f7001473447f/tile_1767761116904.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5e1efdbf90ba3e0009d99082" start="20260323170410 +0000" stop="20260323191228 +0000">
         <title>Boulevard der Dämmerung</title>
         <desc>Gloria Swanson spielt Norma Desmond, eine alternde Stummfilmkönigin, William Holden einen Autoren, der ihr hörig ist. Zusammen porträtieren sie zwei der bemerkenswertesten Filmfiguren aller Zeiten.</desc>
@@ -24225,6 +24290,11 @@
         <title>Hamburger Hill</title>
         <desc>Vietnam 1969, Hill 937, 10 Tage, 70 % Tote. Das sind die Fakten in dieser Geschichte. Eine rohe, harte, und erbarmungslos dramatische Darstellung eines der härtesten Schlachten des blutigsten Krieges Amerikas.</desc>
         <icon src="https://images.pluto.tv/series/67d97af867a072c8ad55f160/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a67d572fac9c000835eb3a" start="20260323233244 +0000" stop="20260324015726 +0000">
+        <title>König Der Freibeuter</title>
+        <desc>In spektakulären Bildern erzählt Cecil B. DeMilles actiongeladener Genreklassiker die wahre Geschichte des heldenhaften Piraten, der Amerika 1812 zum Sieg führte.</desc>
+        <icon src="https://images.pluto.tv/series/660d58725e294200135b839c/tile_1767761671012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65a67dd13af63d0008257f17" start="20260323183022 +0000" stop="20260323191915 +0000">
         <title>90210: Die neue Regisseurin</title>
@@ -25629,32 +25699,32 @@
     <programme channel="691491c6bb69fb3258c3524a" start="20260323183453 +0000" stop="20260323192431 +0000">
         <title>Swamp People</title>
         <desc>Die Jagdsaison läuft, doch eine Kaltfront droht. Jacob, Chase und Bruce kämpfen mit extremer Taktik.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323192431 +0000" stop="20260323201633 +0000">
         <title>Swamp People</title>
         <desc>Die Texaner fordern Troy im Sumpf heraus. Liz jagt trotz Nachwirkungen einer Operation und riskiert alles.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323201633 +0000" stop="20260323210818 +0000">
         <title>Swamp People</title>
         <desc>Liz kehrt drei Wochen nach ihrer OP zur Jagd zurück. Doch alles läuft schief und Frust macht sich breit.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323210818 +0000" stop="20260323220001 +0000">
         <title>Swamp People</title>
         <desc>Ein seltener gelber Alligator flucht die Jäger. Ein Ritual der Ureinwohner soll das Unglück abwenden.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323220001 +0000" stop="20260323225148 +0000">
         <title>Swamp People</title>
         <desc>Misstrauen zwischen Landrys und Texanern durch Wilderer. Bruce plant riskant nach Hurrikan-Schäden.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323225148 +0000" stop="20260323234242 +0000">
         <title>Swamp People</title>
         <desc>Die Jäger kämpfen nach Hurrikan Isaac mit Problemen. Willie wird von einem Alligator gebissen.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d767b4889bca2ce7b73ef2e" start="20260323183750 +0000" stop="20260323193450 +0000">
         <title>Ultimate Processes: Prodrive Aston Martin Racing</title>
@@ -26770,6 +26840,11 @@
         <title>Der Mann aus Virginia</title>
         <desc>Nach dem Bürgerkrieg möchte California neu anfangen. Er benennt sich um in Michael Random und macht sich auf den Weg zurück in seine Heimat. Unterwegs trifft er William Preston, Revolverheld wie er selbst, und die beiden reisen gemeinsam weiter.</desc>
         <icon src="https://images.pluto.tv/series/68da3caeeacdcfc0f7e90cde/tile_1759145379853.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="684ac10236c9361b1977f7bc" start="20260323230600 +0000" stop="20260324003400 +0000">
+        <title>Der weite Weg nach Westen</title>
+        <desc>1867 macht sich die Siedlerfamilie Sergent auf den Weg nach Wyoming, um dort eine Farm zu betreiben. Als ihr Ehemann ermordet wird, muss Maggie Sergent sich entscheiden, ob sie die Farm allein mit ihren Kindern weiterführen will.</desc>
+        <icon src="https://images.pluto.tv/series/68da3cafeacdcfc0f7e90d8e/tile_1759145381438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68ada399247c66a111528aaa" start="20260323183011 +0000" stop="20260323190013 +0000">
         <title>Berater - Leben auf der Überholspur</title>
@@ -32159,27 +32234,27 @@
     <programme channel="691491c6bb69fb3258c3524a" start="20260323225148 +0000" stop="20260323234242 +0000">
         <title>Swamp People</title>
         <desc>Die Jäger kämpfen nach Hurrikan Isaac mit Problemen. Willie wird von einem Alligator gebissen.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260323234242 +0000" stop="20260324003454 +0000">
         <title>Swamp People</title>
         <desc>Um den Rückstand nach Hurrikan Isaac aufzuholen, wagen Jäger größere Risiken in gefährlichen Gebieten.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260324003454 +0000" stop="20260324012432 +0000">
         <title>Swamp People</title>
         <desc>Die Jagdsaison läuft, doch eine Kaltfront droht. Jacob, Chase und Bruce kämpfen mit extremer Taktik.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260324012432 +0000" stop="20260324021633 +0000">
         <title>Swamp People</title>
         <desc>Die Texaner fordern Troy im Sumpf heraus. Liz jagt trotz Nachwirkungen einer Operation und riskiert alles.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260324021633 +0000" stop="20260324030819 +0000">
         <title>Swamp People</title>
         <desc>Liz kehrt drei Wochen nach ihrer OP zur Jagd zurück. Doch alles läuft schief und Frust macht sich breit.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d767b4889bca2ce7b73ef2e" start="20260323221650 +0000" stop="20260323230950 +0000">
         <title>The Weather Files DE: Dem Tornado entkommen</title>
@@ -38879,32 +38954,32 @@
     <programme channel="691491c6bb69fb3258c3524a" start="20260324021633 +0000" stop="20260324030819 +0000">
         <title>Swamp People</title>
         <desc>Liz kehrt drei Wochen nach ihrer OP zur Jagd zurück. Doch alles läuft schief und Frust macht sich breit.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260324030819 +0000" stop="20260324040002 +0000">
         <title>Swamp People</title>
         <desc>Ein seltener gelber Alligator flucht die Jäger. Ein Ritual der Ureinwohner soll das Unglück abwenden.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260324040002 +0000" stop="20260324045149 +0000">
         <title>Swamp People</title>
         <desc>Misstrauen zwischen Landrys und Texanern durch Wilderer. Bruce plant riskant nach Hurrikan-Schäden.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260324045149 +0000" stop="20260324054243 +0000">
         <title>Swamp People</title>
         <desc>Die Jäger kämpfen nach Hurrikan Isaac mit Problemen. Willie wird von einem Alligator gebissen.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260324054243 +0000" stop="20260324063455 +0000">
         <title>Swamp People</title>
         <desc>Um den Rückstand nach Hurrikan Isaac aufzuholen, wagen Jäger größere Risiken in gefährlichen Gebieten.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260324063455 +0000" stop="20260324072433 +0000">
         <title>Swamp People</title>
         <desc>Die Jagdsaison läuft, doch eine Kaltfront droht. Jacob, Chase und Bruce kämpfen mit extremer Taktik.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d767b4889bca2ce7b73ef2e" start="20260324024550 +0000" stop="20260324033750 +0000">
         <title>Hellfire Heroes DE: Feuerprobe</title>
@@ -43764,12 +43839,12 @@
     <programme channel="691491c6bb69fb3258c3524a" start="20260324063455 +0000" stop="20260324072433 +0000">
         <title>Swamp People</title>
         <desc>Die Jagdsaison läuft, doch eine Kaltfront droht. Jacob, Chase und Bruce kämpfen mit extremer Taktik.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260324072433 +0000" stop="20260324081634 +0000">
         <title>Swamp People</title>
         <desc>Die Texaner fordern Troy im Sumpf heraus. Liz jagt trotz Nachwirkungen einer Operation und riskiert alles.</desc>
-        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774250384294.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6973c9badb333f712f17f610/tile_1774252853514.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691491c6bb69fb3258c3524a" start="20260324081634 +0000" stop="20260324110000 +0000">
         <title>Swamp People</title>
