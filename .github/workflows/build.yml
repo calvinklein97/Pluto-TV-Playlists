@@ -2,7 +2,7 @@ name: Build Custom M3U
 
 on:
   workflow_run:
-    workflows: ["Auto Update"]   # MUSS exakt so heißen wie in auto.yml
+    workflows: ["Auto Pluto Update"]   # MUSS exakt so heißen wie in auto.yml
     types:
       - completed
 
