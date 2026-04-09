@@ -1714,12 +1714,12 @@
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260409221521 +0000" stop="20260409231803 +0000">
         <title>Mega Disaster</title>
         <desc>Earthquakes baffle experts as they try to gather the information necessary to predict the next big one.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2c4b746d1c9c538bcef/tile_1775765827433.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2c4b746d1c9c538bcef/tile_1775736913172.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260409231803 +0000" stop="20260410002146 +0000">
         <title>Fatal Forecast</title>
         <desc>Tornadoes account for an average of 60 deaths and millions of dollars in property damage annually.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775765836410.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775736914438.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="698a040b48d98175cb870fc5" start="20260409192800 +0000" stop="20260409201700 +0000">
         <title>Hoarders</title>
@@ -7872,6 +7872,11 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>The legend of Frankenstein gets a dark new reimagining from indie horror master Larry Fessenden.</desc>
         <icon src="https://images.pluto.tv/series/66deb208d404600013e933f6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="612cda102f5f18000705e0bf" start="20260410034750 +0000" stop="20260410041803 +0000">
+        <title>H.G. Wells' The Invisible Man: Odds Against Death</title>
+        <desc>A gangster forces one of Peter's staff to developed a mathematical system to win at the roulette table.</desc>
+        <icon src="https://images.pluto.tv/series/5b1904d9c65a06426375ec0d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6304f8d5ffb61000071ab478" start="20260409224023 +0000" stop="20260409233017 +0000">
         <title>CSI: Crime Scene Investigation</title>
         <desc>The CSI team begin investigating a case involving the world of domination.</desc>
@@ -8342,6 +8347,11 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Professional drivers compete against each other during the 2023 European Rally Championship to emerge victorious and win the coveted title.</desc>
         <icon src="https://images.pluto.tv/series/69d3d2caa71dee2e83b47702/tile_1775489739625.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="696e024a7e92438c27a425a8" start="20260410040400 +0000" stop="20260410050200 +0000">
+        <title>ERC</title>
+        <desc>Professional drivers compete against each other during the 2023 European Rally Championship to emerge victorious and win the coveted title.</desc>
+        <icon src="https://images.pluto.tv/series/69d3d2caa71dee2e83b47702/tile_1775489739625.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="697a2f8b3991484f03064614" start="20260409232153 +0000" stop="20260409234553 +0000">
         <title>Super Mario Brothers Super Show: Mario Meets Koop-Zilla</title>
         <desc>In the oriental city of Sayonara, Mario, Toad, Princess Toadstool and Luigi, who is pulling the cart Mario, Toad and Princess Toadstool are riding, are searching for a weapon that can help them defeat King Koopa, Super Sushi.</desc>
@@ -8400,22 +8410,22 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260409231803 +0000" stop="20260410002146 +0000">
         <title>Fatal Forecast</title>
         <desc>Tornadoes account for an average of 60 deaths and millions of dollars in property damage annually.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775736914438.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775765836410.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410002146 +0000" stop="20260410012557 +0000">
         <title>Fatal Forecast</title>
         <desc>What can be done to protect against heatwaves? Will parts of the earth eventually become uninhabitable?</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775736914438.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775765836410.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410012557 +0000" stop="20260410023049 +0000">
         <title>Fatal Forecast</title>
         <desc>We explore the causes and impacts of the world's most dangerous winter weather event, the polar vortex.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775736914438.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775765836410.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410023049 +0000" stop="20260410033316 +0000">
         <title>Destruction Decoded</title>
         <desc>Is it possible to protect ourselves from the catastrophic destructive power of earthquakes?</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cb7701dc746d7e0b7f/tile_1775736923035.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2cb7701dc746d7e0b7f/tile_1775765829775.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="698a040b48d98175cb870fc5" start="20260409225200 +0000" stop="20260409234500 +0000">
         <title>Hoarders</title>
@@ -15188,27 +15198,27 @@ built quite an impressive career.</desc>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410023049 +0000" stop="20260410033316 +0000">
         <title>Destruction Decoded</title>
         <desc>Is it possible to protect ourselves from the catastrophic destructive power of earthquakes?</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cb7701dc746d7e0b7f/tile_1775736923035.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2cb7701dc746d7e0b7f/tile_1775765829775.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410033316 +0000" stop="20260410043533 +0000">
         <title>Destruction Decoded</title>
         <desc>Enter a volcanic crater and go under the Earth to discover what makes erupting volcanoes so deadly.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cb7701dc746d7e0b7f/tile_1775736923035.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2cb7701dc746d7e0b7f/tile_1775765829775.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410043533 +0000" stop="20260410053829 +0000">
         <title>Hurricane: The Anatomy</title>
         <desc>With coastal habitats and natural defenses irretrievably damaged, the future appears bleak.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cf4f7ff0dfb87f7ca6/tile_1775736915050.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2cf4f7ff0dfb87f7ca6/tile_1775765882735.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410053829 +0000" stop="20260410064111 +0000">
         <title>Mega Disaster</title>
         <desc>Volcanoes can bury entire cities in clouds of ash and gas, or turn rivers into torrents of mud and debris.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2c4b746d1c9c538bcef/tile_1775736913172.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2c4b746d1c9c538bcef/tile_1775765827433.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410064111 +0000" stop="20260410074353 +0000">
         <title>Mega Disaster</title>
         <desc>There is no stopping these massive and deadly phenomena, the only thing to do is run to higher ground.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2c4b746d1c9c538bcef/tile_1775736913172.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2c4b746d1c9c538bcef/tile_1775765827433.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="698a040b48d98175cb870fc5" start="20260410030800 +0000" stop="20260410040000 +0000">
         <title>Hoarders</title>
@@ -36038,17 +36048,17 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410163353 +0000" stop="20260410173636 +0000">
         <title>Mega Disaster</title>
         <desc>Earthquakes baffle experts as they try to gather the information necessary to predict the next big one.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2c4b746d1c9c538bcef/tile_1775736913172.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2c4b746d1c9c538bcef/tile_1775765827433.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410173636 +0000" stop="20260410184019 +0000">
         <title>Fatal Forecast</title>
         <desc>Tornadoes account for an average of 60 deaths and millions of dollars in property damage annually.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775736914438.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775765836410.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6981cc6a644861a57c3bd8ad" start="20260410184019 +0000" stop="20260410194431 +0000">
         <title>Fatal Forecast</title>
         <desc>What can be done to protect against heatwaves? Will parts of the earth eventually become uninhabitable?</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775736914438.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775765836410.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="698a040b48d98175cb870fc5" start="20260410150800 +0000" stop="20260410160000 +0000">
         <title>Hoarders</title>
@@ -42444,17 +42454,7 @@ underdressed at Coachella.</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/697a2f8b3991484f03064614/featuredImage_1770830195618.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6981cc6a644861a57c3bd8ad" start="20260410184019 +0000" stop="20260410194431 +0000">
-        <title>Fatal Forecast</title>
-        <desc>What can be done to protect against heatwaves? Will parts of the earth eventually become uninhabitable?</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775736914438.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6981cc6a644861a57c3bd8ad" start="20260410194431 +0000" stop="20260410204922 +0000">
-        <title>Fatal Forecast</title>
-        <desc>We explore the causes and impacts of the world's most dangerous winter weather event, the polar vortex.</desc>
-        <icon src="https://images.pluto.tv/series/69cab2cafb6a5281bc4560a4/tile_1775736914438.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6981cc6a644861a57c3bd8ad" start="20260410204922 +0000" stop="20260410233000 +0000">
+    <programme channel="6981cc6a644861a57c3bd8ad" start="20260410193000 +0000" stop="20260410233000 +0000">
         <title>Shockwave</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6981cc6a644861a57c3bd8ad/featuredImage_1774540226536.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

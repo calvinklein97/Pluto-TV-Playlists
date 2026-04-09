@@ -1641,6 +1641,11 @@
         <desc>En Hawaii, un moderno portaviones de la marina americana se ve envuelto en una extraña tormenta. Tras la tormenta, el capitán descubre que están en el 7 de diciembre de 1941, el día en que los japoneses bombardearon Pearl Harbor.</desc>
         <icon src="https://images.pluto.tv/series/6638f4b2c306f10014a6a564/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f6a38eaa5b68b0007a00e7a" start="20260409234718 +0000" stop="20260410013218 +0000">
+        <title>Johnny Mnemonic</title>
+        <desc>Corre el año 2021 y la mitad de la población sufre de una enfermedad llamada "síndrome de atenuación de los nervios". Johnny (Keanu Reeves) es un mensajero de información, una persona que lleva los datos más importantes del siglo XXI.</desc>
+        <icon src="https://images.pluto.tv/series/63b6a543501aab0013b8d6f7/tile_1769038921729.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60218baa464ef900073168c1" start="20260409190800 +0000" stop="20260409193300 +0000">
         <title>Empeños a lo bestia</title>
         <desc>Cuando una guitarra rara llega a la tienda, los Gold no pueden decidir si es real o falsa. Podría valer miles, pero gastar dinero en efectivo en un falso podría tener una nota amarga.</desc>
@@ -5222,6 +5227,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Watch the full match replay between France and Morocco played at Hindmarsh Stadium, Adelaide / Tarntanya on Tuesday, August 8, 2023.</desc>
         <icon src="https://images.pluto.tv/series/67b36b6b96446070bd3cc3e6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="660c29f80cd4630008f1547c" start="20260409235800 +0000" stop="20260410014300 +0000">
+        <title>1974 FIFA World Cup</title>
+        <desc>Watch the full match replay from the match between Bulgaria and Netherlands played at Westfalenstadion, Dortmund on Sunday, 23 June 1974.</desc>
+        <icon src="https://images.pluto.tv/series/67b36ba596446070bd3d2f98/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="66c45c0de7f5e80008b82005" start="20260409190000 +0000" stop="20260409200000 +0000">
         <title>Top stories from CNN</title>
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
@@ -6306,6 +6316,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>Un asunto real</title>
         <desc>Osamu y su hijo encuentran a una niña en la calle, aterida de frío. A pesar de sobrevivir con dificultades gracias a pequeños robos, la familia es feliz, hasta que un incidente imprevisto revela un secreto que pone a prueba los lazos que les unen.</desc>
         <icon src="https://images.pluto.tv/series/60d0435328f1d30013ed345f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac9a2d3611d0007a844bb" start="20260410043249 +0000" stop="20260410061149 +0000">
+        <title>Alex Y Eve</title>
+        <desc>Alex es un atractivo maestro de escuela de unos treinta años cuyos padres quieren que se case con una buena chica griega. Sin embargo Alex se enamora de Eva, una abogada cuyos padres son libaneses musulmanes. La relación está prohibida por ambas familias.</desc>
+        <icon src="https://images.pluto.tv/series/5fe9b78e4aa70a001a4fd6d6/tile_1769027782250.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f6a38eaa5b68b0007a00e7a" start="20260409215541 +0000" stop="20260409234718 +0000">
         <title>El final de la cuenta atrás</title>
@@ -29002,10 +29017,25 @@ A finales de septiembre de 1980 Mark Chapman, cuyos transtornos mentales le conv
         <desc>Vergüenza ajena reúne los mejores vídeos amateur de internet y construye en cada episodio un collage trepidante y gamberro en torno a la estupidez humana.</desc>
         <icon src="https://images.pluto.tv/series/68761cd05e84e056be335cfd/tile_1752599396891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65f96cd34e01740008ef1c97" start="20260410153000 +0000" stop="20260410193000 +0000">
-        <title>Realmadrid TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260410133500 +0000" stop="20260410160000 +0000">
+        <title>Historia que tú hiciste</title>
+        <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
+        <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260410160000 +0000" stop="20260410180000 +0000">
+        <title>Hoy jugamos</title>
+        <desc>La mejor cobertura de todos los partidos del primer equipo del Real Madrid. Con la previa más completa, la narración e información al instante de lo que ocurre durante el partido y el análisis detallado una vez finalizado el encuentro.</desc>
+        <icon src="https://plut.tmsimg.com/assets/p404415_b_s2_aa.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260410180000 +0000" stop="20260410185500 +0000">
+        <title>Hoy jugamos</title>
+        <desc>La mejor cobertura de todos los partidos del primer equipo del Real Madrid. Con la previa más completa, la narración e información al instante de lo que ocurre durante el partido y el análisis detallado una vez finalizado el encuentro.</desc>
+        <icon src="https://plut.tmsimg.com/assets/p404415_b_s2_aa.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65f96cd34e01740008ef1c97" start="20260410185500 +0000" stop="20260410205500 +0000">
+        <title>Hoy jugamos</title>
+        <desc>La mejor cobertura de todos los partidos del primer equipo del Real Madrid. Con la previa más completa, la narración e información al instante de lo que ocurre durante el partido y el análisis detallado una vez finalizado el encuentro.</desc>
+        <icon src="https://plut.tmsimg.com/assets/p404415_b_s2_aa.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c29f80cd4630008f1547c" start="20260410143900 +0000" stop="20260410162700 +0000">
         <title>1990 FIFA World Cup</title>
